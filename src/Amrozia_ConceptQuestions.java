@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class Amrozia_ConceptQuestions {
+public class Amrozia_ConceptQuestions {
+
+/*
+
+- What is the Instance method?
+- Can we access instance variables by using the static method?
+
+
+ */
+
 }
