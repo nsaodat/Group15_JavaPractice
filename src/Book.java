@@ -1,7 +1,5 @@
 public class Book {
 
-    //Harry Potter
-    //hunger games
 
         public String title,type, author;
         public int price;
@@ -15,7 +13,7 @@ public class Book {
 
 
         public String toString () {
-            return""
+            return"";
 
 }
 
