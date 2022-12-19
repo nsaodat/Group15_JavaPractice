@@ -78,8 +78,8 @@ public class Item {
         return "Item{" +
                 "name='" + name + '\'' +
                 ", unitPrice=" + unitPrice +
-                ", quantity= $" + quantity +
-                ", total price= $" + quantity +
+                ", quantity= " + quantity +
+                ", total price= $" + calcCost() +
                 '}';
     }
 
